@@ -1,5 +1,5 @@
-# StressPrediction 
 
+# StressPrediction 
 In this project, we build a classifier to predict the stresses for a list of English words. Output the position of the primary stress.
 
 ## 环境 
@@ -12,3 +12,4 @@ numpy: 1.12.1 
 
 scikit-learn: 0.18.1 
 
+## 详见Report.pdf
